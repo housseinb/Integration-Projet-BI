@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="HOUSSEIN_VE_SERVER.DW_VENTES"
+  DTS:DTSID="{5F0D3376-B8AA-43A7-9604-A0E2A121F28B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=HOUSSEIN\VE_SERVER;Initial Catalog=DW_VENTES;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Integration Services Project1-{5F0D3376-B8AA-43A7-9604-A0E2A121F28B}HOUSSEIN\VE_SERVER.DW_VENTES;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
